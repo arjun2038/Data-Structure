@@ -1,4 +1,4 @@
-INSERTION:
+
 #include <stdio.h>
 #include <stdlib.h>
 enum COLOR {Red, Black};
